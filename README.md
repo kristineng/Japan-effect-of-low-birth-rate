@@ -1,7 +1,7 @@
 # Effect of low birth rate in Japan
 
 ## Overview
-In this project, I will use Python to analyze the effect of low birth rate to population and working population (15-64 years old) in Japan.
+In this project, I used Python to analyze the effect of low birth rate to population and working population (15-64 years old) in Japan.
 
 ## Libraries & Modules
 pandas, numpy, matplotlib
